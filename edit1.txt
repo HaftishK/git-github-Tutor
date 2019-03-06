@@ -1,3 +1,6 @@
 This is the edited new file to be commited to the central Repository, from my local Repository
 
 here you can see i have edited the file which is already indexed
+
+sorry!!! i haven't done the changes to be done, then here i am trying to modify the file.
+so that i could see what really is happening with may local Repository
